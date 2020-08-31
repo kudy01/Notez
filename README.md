@@ -1,2 +1,2 @@
 # Notez
-A web application that works as any basic to-do list and can be used to add/delete elements as well as the App can be used to monitor completion status of a particular task.
+A web application that works as any basic to-do list. The application already has a few basic items added by default, which can be kept or deleted by the user. The user can add as many new items as they wish as well as can track the completion of each with a line-through across a particular item which can be just activated by clicking on the item. The app has a basic layout so feel free to customize it as per your choice and styles. This is my solution to the DOM events exercise (lecture 94) - www.udemy.com/the-complete-web-developer-in-2018
